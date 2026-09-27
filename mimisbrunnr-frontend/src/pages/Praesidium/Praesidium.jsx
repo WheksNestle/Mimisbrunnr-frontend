@@ -10,7 +10,7 @@ import Breadcrumbs from '../../components/Breadcrumbs/Breadcrumbs';
 const SPECIAL_OPTIONS = [
   { label: 'Superschachten', value: 'superschachten' },
   { label: 'Ereleden', value: 'ereleden' },
-  { label: 'Lustrumcommités', value: 'lustrumcommites' },
+  { label: 'Lustrumcommités', value: 'lustrumcomitès' },
 ];
 
 const Praesidium = () => {
